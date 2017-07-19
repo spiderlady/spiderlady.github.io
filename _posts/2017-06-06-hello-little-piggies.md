@@ -7,4 +7,4 @@ categories: new stuff
 Hi I just made a new thing.
 
 
-![My helpful screenshot]({{ site.url }}{{site.baseurl}}/assets/thing.jpg)
+![My helpful screenshot]({{ site.url }}/assets/thing.jpg)
