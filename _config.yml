@@ -8,7 +8,7 @@ title:               Heather Makes...
 tagline:             'wonderful things'
 description:         'Share my love of creating'
 url:                 http://www.heathermakes.co.uk/
-baseurl:             '/heathermakes'
+baseurl:             '/'
 paginate:            5
 
 # About/contact
