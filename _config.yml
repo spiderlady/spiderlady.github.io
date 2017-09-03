@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Heather Makes...
 tagline:             'wonderful things'
 description:         'Share my love of creating'
-url:                 http://jeffarthur.co.uk/heathermakes
+url:                 http://www.heathermakes.co.uk/
 baseurl:             '/heathermakes'
 paginate:            5
 
@@ -15,7 +15,7 @@ paginate:            5
 author:
   name:              Heather Arthur
   url:               https://twitter.com/heathermakes
-  email:             heather@webscale.co.uk
+  email:             enquiries@heathermakes.co.uk 
 
 # Custom vars
 version:             1.0.0
